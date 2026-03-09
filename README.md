@@ -1,4 +1,4 @@
-# NexDesk — IT Helpdesk Portal
+# NexDesk - IT Helpdesk Portal
 
 NexDesk is a modern, glow-mode **IT helpdesk ticketing system** UI inspired by tools like Zendesk, ServiceNow, and ManageEngine.  
 This single-page React app showcases realistic IT workflows: ticket queue, SLA tracking, knowledge base, analytics, and role-based views for IT staff vs employees.
