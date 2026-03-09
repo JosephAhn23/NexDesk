@@ -5,22 +5,11 @@ This single-page React app showcases realistic IT workflows: ticket queue, SLA t
 
 ## Screenshots
 
-> Capture your own browser screenshots (in dark mode) and save them into the `screenshots/` folder with the names below.  
-> Once added, these images will render automatically on GitHub.
+Screenshots are not committed to this repo yet so GitHub cannot render them.  
+To add your own images, place PNG files in the `screenshots/` folder with these exact names:
 
-- **Login (IT Staff vs Employee)**
-
-  ![NexDesk Login](./screenshots/nexdesk-login.png)
-
-- **IT Agent Ticket Queue**
-
-  ![NexDesk Agent Queue](./screenshots/nexdesk-agent-queue.png)
-
-- **Ticket Detail & Conversation**
-
-  ![NexDesk Ticket Detail](./screenshots/nexdesk-ticket-detail.png)
-
-- **Analytics Dashboard**
-
-  ![NexDesk Analytics](./screenshots/nexdesk-analytics.png)
+- `screenshots/nexdesk-login.png` (Login - IT Staff vs Employee)
+- `screenshots/nexdesk-agent-queue.png` (IT Agent Ticket Queue)
+- `screenshots/nexdesk-ticket-detail.png` (Ticket Detail and Conversation)
+- `screenshots/nexdesk-analytics.png` (Analytics Dashboard)
 
